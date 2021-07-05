@@ -4,3 +4,4 @@ test
 ### heading 3
 #### heading 4
 [test](https://www.google.com)
+[contact us](contact)
