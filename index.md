@@ -1,7 +1,3 @@
-# heading
-test
-## heading 2
-### heading 3
-#### heading 4
-[test](https://www.google.com)
-[contact us](contact)
+![Logo](/swsa-website/assets/images/UNSWSocialWorkSA_Logo_Full_Colour.jpg)
+
+# UNSW Social Work Student Association
